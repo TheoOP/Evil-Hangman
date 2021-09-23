@@ -30,3 +30,6 @@ If the player has run out of guesses, pick a word from the word list and display
 If the player correctly guesses the word, congratulate her.
 
 Ask if the user wants to play again and loop accordingly.
+
+
+I have also written my own set of 25 unit tests to check various conditions with in game functions and make sure they work well.
